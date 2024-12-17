@@ -13,8 +13,9 @@ class Program
         {
 
             Console.WriteLine("asdfasd");
+            Console.WriteLine("세이칮,");
             Console.WriteLine("asf");
-            Console.WriteLine("asf");
+
 
         }
     }
