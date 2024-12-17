@@ -11,7 +11,10 @@ class Program
 
         public void Update()
         {
+
             Console.WriteLine("asdfasd");
+            Console.WriteLine("asf");
+
         }
     }
 
