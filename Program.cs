@@ -14,6 +14,7 @@ class Program
 
             Console.WriteLine("asdfasd");
             Console.WriteLine("asf");
+            Console.WriteLine("asf");
 
         }
     }
