@@ -11,7 +11,7 @@ class Program
 
         public void Update()
         {
-
+            //콛 진행
         }
     }
 
