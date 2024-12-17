@@ -13,7 +13,7 @@ class Program
         {
 
             Console.WriteLine("asdfasd");
-            Console.WriteLine("asf");
+            Console.WriteLine("세이칮,");
 
         }
     }
