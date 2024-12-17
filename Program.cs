@@ -9,7 +9,7 @@ class Program
     {
         private static Random rand = new Random(); // Static으로 변경
         public int x = 2;
-        public int y;
+        public int y;;
 
         public MovingObj()
         {
